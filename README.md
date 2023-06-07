@@ -1,6 +1,7 @@
 # python_project
 
-Data Analysis, Cleaning, Visualization n/
-Pandas, Numpy, Seaborn, Matplotlib n/
+Data Analysis, Cleaning, Visualization
+
+Pandas, Numpy, Seaborn, Matplotlib 
 
 Diwali sales data analysis 
