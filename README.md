@@ -1,4 +1,4 @@
-# python_project
+# python_projects
 
 Data Analysis, Cleaning, Visualization
 
