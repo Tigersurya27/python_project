@@ -2,7 +2,7 @@
 
 Data Analysis, Cleaning, Visualization
 
-Pandas, Numpy, Seaborn, Matplotlib 
+Pandas, Seaborn, Matplotlib 
 
 1. Diwali sales  
 2. Fifa players
